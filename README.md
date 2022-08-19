@@ -1,4 +1,4 @@
-# Sql Server Docker Compose
+# MS Sql Server with Docker Compose
 Creates a container running SQL Server via Docker Compose
 
 
