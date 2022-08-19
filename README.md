@@ -7,5 +7,5 @@ Creates a container running SQL Server via Docker Compose
 Clone the repo down and navigate to it<br>
 Create the sapassword.env file and enter something similar to:-<br>
 MSSQL_SA_PASSWORD=MY_SA_PASSWORD<br>
-Run:-<br>
+Run:<br>
 docker-compose up -d
