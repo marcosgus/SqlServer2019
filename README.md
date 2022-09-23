@@ -10,7 +10,8 @@ MSSQL_SA_PASSWORD=MY_SA_PASSWORD<br>
 Run:<br>
 docker-compose up -d
 
-# Set your timezone, in my case America/Argentina/Buenos_Aires
+# Set your timezone
+In my case America/Argentina/Buenos_Aires
 Edit *dockerfile*
 
 Add these lines at the beginning:
