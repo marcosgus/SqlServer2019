@@ -16,7 +16,7 @@ Edit *dockerfile*
 
 Add these lines at the beginning:
 
-ENV TZ="America/Argentina/Buenos_Aires"
+code(ENV TZ="America/Argentina/Buenos_Aires")
 
 RUN apt-get update && apt-get install -y --no-install-recommends tzdata \
     && rm -rf /var/lib/apt/lists/*
